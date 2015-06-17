@@ -6,5 +6,4 @@ Solveur de Sudoku
 ==========
 Groupe 
 ==========
-Samira TIR
-Benjamin JOCKTANE
+Samira TIR   et  Benjamin JOCKTANE
